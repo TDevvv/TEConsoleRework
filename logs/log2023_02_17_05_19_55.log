@@ -1,0 +1,37 @@
+
+
+[BEGIN---TLogger---> (asda)[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-19-55])
+TConsole/Exec./asd
+a>
+[END---TLogger---asda][EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-19-55])
+
+
+[BEGIN---TLogger---> (sd)[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-19-55])
+TConsole/Exec./sd
+>
+[END---TLogger---sd][EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-19-55])
+
+
+[BEGIN---TLogger---> (a
+s)[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-19-55])
+TConsole/Exec./a
+s>
+[END---TLogger---a
+s][EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-19-56])
+
+
+[BEGIN---TLogger---> (d)[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-19-56])
+TConsole/Exec./d
+>
+[END---TLogger---d][EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-19-56])
+
+
+[BEGIN---TLogger---> ()[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-19-56])
+TConsole/Exec./
+>
+[END---TLogger---][EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-19-56])
+
+
+[BEGIN---TLogger---> (get_logger)[EXEC/Mixin] /[[2023-02-17-05-19-55]] {TConsoleComponentBridge} ([2023-02-17-05-20-01])
+TConsole/Exec./get_logger
+>

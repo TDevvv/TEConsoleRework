@@ -1,0 +1,133 @@
+
+
+[BEGIN---TLogger---> (tas....)[EXEC/Mixin] /[[2023-02-17-09-27-04]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> tas....
+TConsole/Exec./tasdas
+d>
+[END---TLogger---tas....][EXEC/Mixin] /[[2023-02-17-09-27-04]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (as)[EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> as
+TConsole/Exec./as
+>
+[END---TLogger---as][EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (das....)[EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> das....
+TConsole/Exec./das
+>
+[END---TLogger---das....][EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (d)[EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> d
+TConsole/Exec./d
+>
+[END---TLogger---d][EXEC/Mixin] /[[2023-02-17-09-27-05]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (clear)[EXEC/Mixin] /[[2023-02-17-09-27-07]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>clear  dscr.-> clears all text in the console,and sets text to a updated time.
+TConsole/Exec./clear
+>
+[END---TLogger---clear][EXEC/Mixin] /[[2023-02-17-09-27-07]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (debug_mode)[EXEC/Mixin] /[[2023-02-17-09-27-15]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>debug_mode  dscr.-> you can activate debug mod by inserting true or false.
+TConsole/Exec./debug_mode
+>
+[END---TLogger---debug_mode][EXEC/Mixin] /[[2023-02-17-09-27-15]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (true)[EXEC/Mixin] /[[2023-02-17-09-27-17]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>true  dscr.-> this token doesn't have a description.
+TConsole/Exec./true
+>
+[END---TLogger---true][EXEC/Mixin] /[[2023-02-17-09-27-17]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> T KC::/> 84
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> E KC::/> 69
+EVENT::/> A KC::/> 65
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> C KC::/> 67
+EVENT::/> L KC::/> 76
+EVENT::/> E KC::/> 69
+EVENT::/> A KC::/> 65
+EVENT::/> R KC::/> 82
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (clear)[EXEC/Mixin] /[[2023-02-17-09-27-22]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>clear  dscr.-> clears all text in the console,and sets text to a updated time.
+TConsole/Exec./clear
+>
+[END---TLogger---clear][EXEC/Mixin] /[[2023-02-17-09-27-22]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> C KC::/> 67
+EVENT::/> L KC::/> 76
+EVENT::/> E KC::/> 69
+EVENT::/> A KC::/> 65
+EVENT::/> R KC::/> 82
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (clear)[EXEC/Mixin] /[[2023-02-17-09-27-23]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>clear  dscr.-> clears all text in the console,and sets text to a updated time.
+TConsole/Exec./clear
+>
+[END---TLogger---clear][EXEC/Mixin] /[[2023-02-17-09-27-23]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> C KC::/> 67
+EVENT::/> L KC::/> 76
+EVENT::/> E KC::/> 69
+EVENT::/> A KC::/> 65
+EVENT::/> R KC::/> 82
+EVENT::/> Backspace KC::/> 8
+EVENT::/> T KC::/> 84
+EVENT::/> E KC::/> 69
+EVENT::/> S KC::/> 83
+EVENT::/> T KC::/> 84
+EVENT::/> Backspace KC::/> 8
+EVENT::/> G KC::/> 71
+EVENT::/> O KC::/> 79
+EVENT::/> T KC::/> 84
+EVENT::/> O KC::/> 79
+EVENT::/> Space KC::/> 32
+EVENT::/> Unknown keyCode: 0x0 KC::/> 0
+EVENT::/> F KC::/> 70
+EVENT::/> L KC::/> 76
+EVENT::/> E KC::/> 69
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (got....)[EXEC/Mixin] /[[2023-02-17-09-27-33]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> got....
+TConsole/Exec./goto file
+>
+[END---TLogger---got....][EXEC/Mixin] /[[2023-02-17-09-27-33]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> C KC::/> 67
+EVENT::/> Backspace KC::/> 8
+EVENT::/> G KC::/> 71
+EVENT::/> E KC::/> 69
+EVENT::/> T KC::/> 84
+EVENT::/> Minus KC::/> 45
+EVENT::/> Shift KC::/> 16
+EVENT::/> L KC::/> 76
+EVENT::/> O KC::/> 79
+EVENT::/> G KC::/> 71
+EVENT::/> G KC::/> 71
+EVENT::/> E KC::/> 69
+EVENT::/> R KC::/> 82
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (get_logger)[EXEC/Mixin] /[[2023-02-17-09-27-41]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>get_logger  dscr.-> logs all text on the textarea
+TConsole/Exec./get_logger
+>

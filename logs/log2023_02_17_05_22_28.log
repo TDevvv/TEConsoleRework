@@ -1,0 +1,58 @@
+
+
+[BEGIN---TLogger---> (asdas
+d)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-28])
+TConsole/cannot resolve this token> asdas
+d
+TConsole/Exec./asdas
+d>
+[END---TLogger---asdas
+d][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-28])
+
+
+[BEGIN---TLogger---> (as)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-28])
+TConsole/cannot resolve this token> as
+TConsole/Exec./
+as>
+[END---TLogger---as][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-28])
+
+
+[BEGIN---TLogger---> (as)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-28])
+TConsole/cannot resolve this token> as
+TConsole/Exec./as
+>
+[END---TLogger---as][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-28])
+
+
+[BEGIN---TLogger---> (d)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-28])
+TConsole/cannot resolve this token> d
+TConsole/Exec./
+d>
+[END---TLogger---d][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-28])
+
+
+[BEGIN---TLogger---> (a)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-28])
+TConsole/cannot resolve this token> a
+TConsole/Exec./
+a>
+[END---TLogger---a][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-28])
+
+
+[BEGIN---TLogger---> (s)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-29])
+TConsole/cannot resolve this token> s
+TConsole/Exec./s
+>
+[END---TLogger---s][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-29])
+
+
+[BEGIN---TLogger---> (d)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-29])
+TConsole/cannot resolve this token> d
+TConsole/Exec./d
+>
+[END---TLogger---d][EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} (UpdatedTime::?=[2023-02-17-05-22-29])
+
+
+[BEGIN---TLogger---> (get_logger)[EXEC/Mixin] /[[2023-02-17-05-22-28]] {TConsoleComponentBridge} ([2023-02-17-05-22-36])
+TConsole/cannot resolve this token> get_logger
+TConsole/Exec./get_logger
+>

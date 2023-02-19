@@ -1,0 +1,62 @@
+
+
+[BEGIN---TLogger---> (a)[EXEC/Mixin] /[[2023-02-17-05-33-06]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> a
+TConsole/Exec./a
+>
+[END---TLogger---a][EXEC/Mixin] /[[2023-02-17-05-33-06]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (as)[EXEC/Mixin] /[[2023-02-17-05-33-08]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> as
+TConsole/Exec./as
+>
+[END---TLogger---as][EXEC/Mixin] /[[2023-02-17-05-33-08]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-17-05-33-10]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asd
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-17-05-33-10]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-17-05-33-13]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asdf
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-17-05-33-13]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asf....)[EXEC/Mixin] /[[2023-02-17-05-33-15]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asf....
+TConsole/Exec./asfasd
+>
+[END---TLogger---asf....][EXEC/Mixin] /[[2023-02-17-05-33-15]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-17-05-33-17]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asdfff
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-17-05-33-17]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-17-05-33-20]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asdffffffffffffffffffffffffffffffffffff
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-17-05-33-20]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-17-05-33-25]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asdddadffffffffffffffffffffffffffffffffffffffffffff
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-17-05-33-25]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (get....)[EXEC/Mixin] /[[2023-02-17-05-33-31]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> get....
+TConsole/Exec./get_logger
+>

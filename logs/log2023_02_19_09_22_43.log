@@ -1,0 +1,87 @@
+
+
+[BEGIN---TLogger---> (tes....)[EXEC/Mixin] /[[2023-02-19-09-22-08]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> tes....
+TConsole/Exec./test
+>
+[END---TLogger---tes....][EXEC/Mixin] /[[2023-02-19-09-22-08]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (clear)[EXEC/Mixin] /[[2023-02-19-09-22-09]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>clear  dscr.-> clears all text in the console,and sets text to a updated time.
+TConsole/Exec./clear
+>
+[END---TLogger---clear][EXEC/Mixin] /[[2023-02-19-09-22-09]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (343....)[EXEC/Mixin] /[[2023-02-19-09-22-13]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> 343....
+TConsole/Exec./3432+234
+>
+3666.0
+[END---TLogger---343....][EXEC/Mixin] /[[2023-02-19-09-22-13]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (if)[EXEC/Mixin] /[[2023-02-19-09-22-21]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> if
+TConsole/Exec./if
+>
+[END---TLogger---if][EXEC/Mixin] /[[2023-02-19-09-22-21]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (clear)[EXEC/Mixin] /[[2023-02-19-09-22-23]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>clear  dscr.-> clears all text in the console,and sets text to a updated time.
+TConsole/Exec./clear
+>
+[END---TLogger---clear][EXEC/Mixin] /[[2023-02-19-09-22-23]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (hel....)[EXEC/Mixin] /[[2023-02-19-09-22-25]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> hel....
+TConsole/Exec./help
+>
+[END---TLogger---hel....][EXEC/Mixin] /[[2023-02-19-09-22-25]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asd
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd....)[EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> asd....
+TConsole/Exec./asd
+>
+[END---TLogger---asd....][EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (as)[EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> as
+TConsole/Exec./as
+>
+[END---TLogger---as][EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (d)[EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> d
+TConsole/Exec./d
+>
+[END---TLogger---d][EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (a
+s....)[EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> a
+s....
+TConsole/Exec./a
+s>
+[END---TLogger---a
+s....][EXEC/Mixin] /[[2023-02-19-09-22-38]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (get_logger)[EXEC/Mixin] /[[2023-02-19-09-22-43]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>get_logger  dscr.-> logs all text on the textarea
+TConsole/Exec./get_logger
+>

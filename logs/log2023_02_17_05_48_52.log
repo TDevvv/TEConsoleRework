@@ -1,0 +1,162 @@
+
+
+[BEGIN---TLogger---> (debug_mode)[EXEC/Mixin] /[[2023-02-17-05-47-27]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>debug_mode  dscr.-> this token doesn't have a description.
+TConsole/Exec./debug_mode
+>
+[END---TLogger---debug_mode][EXEC/Mixin] /[[2023-02-17-05-47-27]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (true)[EXEC/Mixin] /[[2023-02-17-05-47-30]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>true  dscr.-> this token doesn't have a description.
+TConsole/Exec./true
+>
+[END---TLogger---true][EXEC/Mixin] /[[2023-02-17-05-47-30]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> T KC::/> 84
+EVENT::/> E KC::/> 69
+EVENT::/> S KC::/> 83
+EVENT::/> T KC::/> 84
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> E KC::/> 69
+EVENT::/> Y KC::/> 89
+EVENT::/> Y KC::/> 89
+EVENT::/> Y KC::/> 89
+EVENT::/> O KC::/> 79
+EVENT::/> Space KC::/> 32
+EVENT::/> M KC::/> 77
+EVENT::/> T KC::/> 84
+EVENT::/> Backspace KC::/> 8
+EVENT::/> R KC::/> 82
+EVENT::/> Period KC::/> 46
+EVENT::/> W KC::/> 87
+EVENT::/> H KC::/> 72
+EVENT::/> Unknown keyCode: 0x0 KC::/> 0
+EVENT::/> T KC::/> 84
+EVENT::/> E KC::/> 69
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (eyy....)[EXEC/Mixin] /[[2023-02-17-05-47-54]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/cannot resolve this token> eyy....
+TConsole/Exec./eyyyo mr.white
+>
+[END---TLogger---eyy....][EXEC/Mixin] /[[2023-02-17-05-47-54]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> Backspace KC::/> 8
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> A KC::/> 65
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> A KC::/> 65
+EVENT::/> Backspace KC::/> 8
+EVENT::/> S KC::/> 83
+EVENT::/> D KC::/> 68
+EVENT::/> Backspace KC::/> 8
+EVENT::/> D KC::/> 68
+EVENT::/> E KC::/> 69
+EVENT::/> B KC::/> 66
+EVENT::/> U KC::/> 85
+EVENT::/> G KC::/> 71
+EVENT::/> Asterisk KC::/> 151
+EVENT::/> Shift KC::/> 16
+EVENT::/> M KC::/> 77
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Backspace KC::/> 8
+EVENT::/> Minus KC::/> 45
+EVENT::/> Shift KC::/> 16
+EVENT::/> M KC::/> 77
+EVENT::/> O KC::/> 79
+EVENT::/> D KC::/> 68
+EVENT::/> E KC::/> 69
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (debug_mode)[EXEC/Mixin] /[[2023-02-17-05-48-41]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>debug_mode  dscr.-> this token doesn't have a description.
+TConsole/Exec./debug_mode
+>
+[END---TLogger---debug_mode][EXEC/Mixin] /[[2023-02-17-05-48-41]] {TConsoleComponentBridge} (CS ENTER EVENT)
+EVENT::/> F KC::/> 70
+EVENT::/> A KC::/> 65
+EVENT::/> L KC::/> 76
+EVENT::/> S KC::/> 83
+EVENT::/> E KC::/> 69
+EVENT::/> Enter KC::/> 10
+
+
+[BEGIN---TLogger---> (false)[EXEC/Mixin] /[[2023-02-17-05-48-45]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>false  dscr.-> this token doesn't have a description.
+TConsole/Exec./false
+>
+[END---TLogger---false][EXEC/Mixin] /[[2023-02-17-05-48-45]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (get_logger)[EXEC/Mixin] /[[2023-02-17-05-48-52]] {TConsoleComponentBridge} (CS ::/>Enter<--EVENT)
+TConsole/>get_logger  dscr.-> logs all text on the textarea
+TConsole/Exec./get_logger
+>

@@ -1,0 +1,48 @@
+
+
+[BEGIN---TLogger---> (asd)[EXEC/Mixin] /[[2023-02-17-05-30-40]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd
+TConsole/Exec./asdasd
+>
+[END---TLogger---asd][EXEC/Mixin] /[[2023-02-17-05-30-41]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asd)[EXEC/Mixin] /[[2023-02-17-05-30-44]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asd
+TConsole/Exec./asdasdasdasdasdasdasd
+>
+[END---TLogger---asd][EXEC/Mixin] /[[2023-02-17-05-30-44]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (asl)[EXEC/Mixin] /[[2023-02-17-05-30-47]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> asl
+TConsole/Exec./aslşdkşalskdşlaskdlşa
+>
+[END---TLogger---asl][EXEC/Mixin] /[[2023-02-17-05-30-47]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (cancel)[EXEC/Mixin] /[[2023-02-17-05-30-50]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/>cancel  dscr.-> cancel the procces for file creating
+TConsole/Exec./cancel
+>
+[END---TLogger---cancel][EXEC/Mixin] /[[2023-02-17-05-30-50]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (create)[EXEC/Mixin] /[[2023-02-17-05-30-54]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/>create  dscr.-> creates file,but it wants a path for it you can insert path or cancel the process.
+TConsole/Exec./create
+>
+[END---TLogger---create][EXEC/Mixin] /[[2023-02-17-05-30-54]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (cancel)[EXEC/Mixin] /[[2023-02-17-05-30-56]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/>cancel  dscr.-> cancel the procces for file creating
+TConsole/Exec./cancel
+>
+[END---TLogger---cancel][EXEC/Mixin] /[[2023-02-17-05-30-56]] {TConsoleComponentBridge} (CS ENTER EVENT)
+
+
+[BEGIN---TLogger---> (get)[EXEC/Mixin] /[[2023-02-17-05-31-00]] {TConsoleComponentBridge} (CS ENTER EVENT)
+TConsole/cannot resolve this token> get
+TConsole/Exec./get_logger
+>

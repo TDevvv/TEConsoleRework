@@ -1,0 +1,12 @@
+clear
+debug_mode
+ true
+ false
+get_logger
+create
+ [PATH]
+ cancel
+exit
+ yes
+ no
+*-/+
